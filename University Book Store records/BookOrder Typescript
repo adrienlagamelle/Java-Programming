@@ -1,0 +1,406 @@
+Script started on Fri 03 Mar 2017 03:02:55 AM NST
+]0;adrien@adrien-VirtualBox: ~/Downloads[01;32madrien@adrien-VirtualBox[00m:[01;34m~/Downloads[00m$ java BookOrder
+Enter the number of book orders to be added: 10
+Complete the following information for Book 1
+Enter the Course Department: COMP 1 
+Enter the Course number: 1000
+Enter the ISBN- 19 digits: 123456789-10-145789
+Enter the book title: Intor  ro1
+Enter the Author Name(last name only): Lagame      Ami   Smith01
+Enter the Publisher name: CIM
+Enter the Year of Publication: 2000
+Enter the Edition number: 1
+Enter the book price: 1 10
+Enter the estimated class size: 10
+Enter the book priority- enter 'recommended' or 'required' only: recommended
+Enter the book state- enter 'new' or 'used' only: new
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Complete the following information for Book 2
+Enter the Course Department: COMP
+Enter the Course number: 1001
+Enter the ISBN- 19 digits: 14512-598-57459-897
+Enter the book title: Inro  tro2
+Enter the Author Name(last name only): Smith02
+Enter the Publisher name: CIM
+Enter the Year of Publication: 2001
+Enter the Edition number: 2
+Enter the book price: 20
+Enter the estimated class size: 20
+Enter the book priority- enter 'recommended' or 'required' only: required
+Enter the book state- enter 'new' or 'used' only: used
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Complete the following information for Book 3
+Enter the Course Department: COMP
+Enter the Course number: 1002
+Enter the ISBN- 19 digits: 15478-9857-8957               123456-852-549879-9
+Enter the book title: Intro3
+Enter the Author Name(last name only): SMith03
+Enter the Publisher name: CIM
+Enter the Year of Publication: 2002
+Enter the Edition number: 3
+Enter the book price: 30
+Enter the estimated class size: 30
+Enter the book priority- enter 'recommended' or 'required' only: required
+Enter the book state- enter 'new' or 'used' only: used
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Complete the following information for Book 4
+Enter the Course Department: COMP
+Enter the Course number: 1004
+Enter the ISBN- 19 digits: 5489-985-9874598-89
+Enter the book title: 123456
+Enter the Author Name(last name only): SMIsfsdf
+Enter the Publisher name: asc
+Enter the Year of Publication: 2004 34 
+Enter the Edition number: 4
+Enter the book price: 50
+Enter the estimated class size: 50
+Enter the book priority- enter 'recommended' or 'required' only: required
+Enter the book state- enter 'new' or 'used' only: new
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Complete the following information for Book 5
+Enter the Course Department: PSY] 
+Enter the Course number: 1235
+Enter the ISBN- 19 digits: 456987-85221-5521654
+Enter a valid ISBN- 19 digits: 123456-8        12245-895-985^A               1254-5698-985-89658
+Enter the book title: sdf
+Enter the Author Name(last name only): dsfsdf
+Enter the Publisher name: sdfd
+Enter the Year of Publication: 2005
+Enter the Edition number: 5
+Enter the book price: 50
+Enter the estimated class size: 50
+Enter the book priority- enter 'recommended' or 'required' only: recoe mmended
+Enter the book state- enter 'new' or 'used' only: new
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Complete the following information for Book 6
+Enter the Course Department: MUSC
+Enter the Course number: 321
+Enter the ISBN- 19 digits: 45789-98574-89-98-9
+Enter the book title: wer
+Enter the Author Name(last name only): wewer
+Enter the Publisher name: werwerwre
+Enter the Year of Publication: 2016  06
+Enter the Edition number: 6
+Enter the book price: 60
+Enter the estimated class size: 60
+Enter the book priority- enter 'recommended' or 'required' only: recommended
+Enter the book state- enter 'new' or 'used' only: used
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Complete the following information for Book 7
+Enter the Course Department: MATH
+Enter the Course number: 2760
+Enter the ISBN- 19 digits: 45987-9857-98514-89
+Enter the book title: MAth
+Enter the Author Name(last name only): Adrien
+Enter the Publisher name: Lagamelle
+Enter the Year of Publication: 2007
+Enter the Edition number: 7
+Enter the book price: 70
+Enter the estimated class size: 50
+Enter the book priority- enter 'recommended' or 'required' only: required
+Enter the book state- enter 'new' or 'used' only: new
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Complete the following information for Book 8
+Enter the Course Department: POSC
+Enter the Course number: 4750
+Enter the ISBN- 19 digits: 5478-98574-95657895
+Enter the book title: POC
+Enter the Author Name(last name only): Khemil
+Enter the Publisher name: Ladsawut
+Enter the Year of Publication: 2008
+Enter the Edition number: 8
+Enter the book price: 80
+Enter the estimated class size: 10
+Enter the book priority- enter 'recommended' or 'required' only: recommended
+Enter the book state- enter 'new' or 'used' only: new
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Complete the following information for Book 9
+Enter the Course Department: BBA
+Enter the Course number: 456
+Enter the ISBN- 19 digits: 45789-98574-9856478
+Enter the book title: Mopas kn   ner   kner
+Enter the Author Name(last name only): Pakner
+Enter the Publisher name: fess
+Enter the Year of Publication: 2009
+Enter the Edition number: 9
+Enter the book price: 90
+Enter the estimated class size: 50
+Enter the book priority- enter 'recommended' or 'required' only: recommended
+Enter the book state- enter 'new' or 'used' only: used
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Complete the following information for Book 10
+Enter the Course Department: M MATH
+Enter the Course number: 2000
+Enter the ISBN- 19 digits: 45698-9857459-9-9-8 
+Enter a valid ISBN- 19 digits: 789456-9856-98564-97 
+Enter the book title: Calculus
+Enter the Author Name(last name only): Salomon
+Enter the Publisher name: BluePrint
+Enter the Year of Publication: 2020
+Enter the Edition number: 999
+Enter the book price: 150   400
+Enter the estimated class size: 120
+Enter the book priority- enter 'recommended' or 'required' only: required
+Enter the book state- enter 'new' or 'used' only: new
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+>>>>>> BOOK 1 <<<<<<<<
+Department: COMP
+Course Number : 1000
+ISBN : 123456789-10-145789
+Title : Intro1
+Author name : Smith01
+Publisher : CIM
+Year of publication : 2000
+Edition Number : 1
+Price : 10.0
+Estimated class size : 10.0
+Priority : recommended
+State : new
+The number of books to be ordered: 4
+Markup for the book: 2.5
+ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+>>>>>> BOOK 2 <<<<<<<<
+Department: COMP
+Course Number : 1001
+ISBN : 14512-598-57459-897
+Title : Intro2
+Author name : Smith02
+Publisher : CIM
+Year of publication : 2001
+Edition Number : 2
+Price : 20.0
+Estimated class size : 20.0
+Priority : required
+State : used
+The number of books to be ordered: 12
+Markup for the book: 5.0
+ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+>>>>>> BOOK 3 <<<<<<<<
+Department: COMP
+Course Number : 1002
+ISBN : 123456-852-549879-9
+Title : Intro3
+Author name : SMith03
+Publisher : CIM
+Year of publication : 2002
+Edition Number : 3
+Price : 30.0
+Estimated class size : 30.0
+Priority : required
+State : used
+The number of books to be ordered: 18
+Markup for the book: 7.5
+ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+>>>>>> BOOK 4 <<<<<<<<
+Department: COMP
+Course Number : 1004
+ISBN : 5489-985-9874598-89
+Title : 123456
+Author name : SMIsfsdf
+Publisher : asc
+Year of publication : 2003
+Edition Number : 4
+Price : 50.0
+Estimated class size : 50.0
+Priority : required
+State : new
+The number of books to be ordered: 42
+Markup for the book: 12.5
+ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+>>>>>> BOOK 5 <<<<<<<<
+Department: PSY
+Course Number : 1235
+ISBN : 1254-5698-985-89658
+Title : sdf
+Author name : dsfsdf
+Publisher : sdfd
+Year of publication : 2005
+Edition Number : 5
+Price : 50.0
+Estimated class size : 50.0
+Priority : recommended
+State : new
+The number of books to be ordered: 20
+Markup for the book: 12.5
+ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+>>>>>> BOOK 6 <<<<<<<<
+Department: MUSC
+Course Number : 321
+ISBN : 45789-98574-89-98-9
+Title : wer
+Author name : wewer
+Publisher : werwerwre
+Year of publication : 2006
+Edition Number : 6
+Price : 60.0
+Estimated class size : 60.0
+Priority : recommended
+State : used
+The number of books to be ordered: 15
+Markup for the book: 15.0
+ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+>>>>>> BOOK 7 <<<<<<<<
+Department: MATH
+Course Number : 2760
+ISBN : 45987-9857-98514-89
+Title : MAth
+Author name : Adrien
+Publisher : Lagamelle
+Year of publication : 2007
+Edition Number : 7
+Price : 70.0
+Estimated class size : 50.0
+Priority : required
+State : new
+The number of books to be ordered: 42
+Markup for the book: 17.5
+ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+>>>>>> BOOK 8 <<<<<<<<
+Department: POSC
+Course Number : 4750
+ISBN : 5478-98574-95657895
+Title : POC
+Author name : Khemil
+Publisher : Ladsawut
+Year of publication : 2008
+Edition Number : 8
+Price : 80.0
+Estimated class size : 10.0
+Priority : recommended
+State : new
+The number of books to be ordered: 4
+Markup for the book: 20.0
+ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+>>>>>> BOOK 9 <<<<<<<<
+Department: BBA
+Course Number : 456
+ISBN : 45789-98574-9856478
+Title : Mopaskner
+Author name : Pakner
+Publisher : fess
+Year of publication : 2009
+Edition Number : 9
+Price : 90.0
+Estimated class size : 50.0
+Priority : recommended
+State : used
+The number of books to be ordered: 12
+Markup for the book: 22.5
+ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+>>>>>> BOOK 10 <<<<<<<<
+Department: MATH
+Course Number : 2000
+ISBN : 789456-9856-98564-9
+Title : Calculus
+Author name : Salomon
+Publisher : BluePrint
+Year of publication : 2020
+Edition Number : 999
+Price : 400.0
+Estimated class size : 120.0
+Priority : required
+State : new
+The number of books to be ordered: 102
+Markup for the book: 80.0
+ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+Courses which have required texts that have been previously used: 
+2) COMP 1001
+3) COMP 1002
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+ >>> INFORMATION FOR COMPUTER SCIENCE COURSES ONLY <<< 
+Department: COMP
+Course Number : 1000
+ISBN : 123456789-10-145789
+Title : Intro1
+Author name : Smith01
+Year of publication : 2000
+Edition Number : 1
+Price : 10.0
+
+Department: COMP
+Course Number : 1001
+ISBN : 14512-598-57459-897
+Title : Intro2
+Author name : Smith02
+Year of publication : 2001
+Edition Number : 2
+Price : 20.0
+
+Department: COMP
+Course Number : 1002
+ISBN : 123456-852-549879-9
+Title : Intro3
+Author name : SMith03
+Year of publication : 2002
+Edition Number : 3
+Price : 30.0
+
+Department: COMP
+Course Number : 1004
+ISBN : 5489-985-9874598-89
+Title : 123456
+Author name : SMIsfsdf
+Year of publication : 2003
+Edition Number : 4
+Price : 50.0
+
+Enter a publisher name to be searched for:CIM
+ISBN : 123456789-10-145789
+Title : Intro1
+Author name : Smith01
+Year of publication : 2000
+Edition Number : 1
+Price : 10.0
+Book orders: 4
+
+ISBN : 14512-598-57459-897
+Title : Intro2
+Author name : Smith02
+Year of publication : 2001
+Edition Number : 2
+Price : 20.0
+Book orders: 12
+
+ISBN : 123456-852-549879-9
+Title : Intro3
+Author name : SMith03
+Year of publication : 2002
+Edition Number : 3
+Price : 30.0
+Book orders: 18
+
+Continue ? true or false :true
+Enter a publisher name to be searched for:CIM
+ISBN : 123456789-10-145789
+Title : Intro1
+Author name : Smith01
+Year of publication : 2000
+Edition Number : 1
+Price : 10.0
+Book orders: 4
+
+ISBN : 14512-598-57459-897
+Title : Intro2
+Author name : Smith02
+Year of publication : 2001
+Edition Number : 2
+Price : 20.0
+Book orders: 12
+
+ISBN : 123456-852-549879-9
+Title : Intro3
+Author name : SMith03
+Year of publication : 2002
+Edition Number : 3
+Price : 30.0
+Book orders: 18
+
+Continue ? true or false :true
+Enter a publisher name to be searched for:Lue   Fa  false
+Continue ? true or false :false
+]0;adrien@adrien-VirtualBox: ~/Downloads[01;32madrien@adrien-VirtualBox[00m:[01;34m~/Downloads[00m$ exit 
+exit
+
+Script done on Fri 03 Mar 2017 03:14:15 AM NST
