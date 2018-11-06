@@ -1,0 +1,24 @@
+Script started on Fri 31 Mar 2017 12:45:54 AM NDT
+]0;adrien@adrien-VirtualBox: ~/Downloads[01;32madrien@adrien-VirtualBox[00m:[01;34m~/Downloads[00m$ exitjavac LinkedList.javaexit[K[Kjaa[Kva SubwayViwer[K[K[Ker[Kwer
+]0;adrien@adrien-VirtualBox: ~/Downloads[01;32madrien@adrien-VirtualBox[00m:[01;34m~/Downloads[00m$ dir
+Assign\ 1	   SubwayFrame$ChoiceListener.class  SubwayViewer.java
+Assign\ 2	   SubwayFrame.class		     TrafficLightPanel.java
+Assign\ 3	   SubwayFrame.java		     TrafficLightRunner.java
+Assign\ 5	   SubwayScript
+eclipse-installer  SubwayViewer.class
+]0;adrien@adrien-VirtualBox: ~/Downloads[01;32madrien@adrien-VirtualBox[00m:[01;34m~/Downloads[00m$ javac Trafficl[KLightPanel.java
+]0;adrien@adrien-VirtualBox: ~/Downloads[01;32madrien@adrien-VirtualBox[00m:[01;34m~/Downloads[00m$ Tr[K[Kjava Traff[K[K[K[K[K[Kc TrafficLightRunner
+error: Class names, 'TrafficLightRunner', are only accepted if annotation processing is explicitly requested
+1 error
+]0;adrien@adrien-VirtualBox: ~/Downloads[01;32madrien@adrien-VirtualBox[00m:[01;34m~/Downloads[00m$ javac Traff[KficLightRunner.java
+]0;adrien@adrien-VirtualBox: ~/Downloads[01;32madrien@adrien-VirtualBox[00m:[01;34m~/Downloads[00m$ java TrafficLightRUner[K[K[K[Kunner
+]0;adrien@adrien-VirtualBox: ~/Downloads[01;32madrien@adrien-VirtualBox[00m:[01;34m~/Downloads[00m$ script
+Script started, file is typescript
+]0;adrien@adrien-VirtualBox: ~/Downloads[01;32madrien@adrien-VirtualBox[00m:[01;34m~/Downloads[00m$ java Traffc[KicLightT[KRunner
+]0;adrien@adrien-VirtualBox: ~/Downloads[01;32madrien@adrien-VirtualBox[00m:[01;34m~/Downloads[00m$ exit 
+exit
+Script done, file is typescript
+]0;adrien@adrien-VirtualBox: ~/Downloads[01;32madrien@adrien-VirtualBox[00m:[01;34m~/Downloads[00m$ exit 
+exit
+
+Script done on Fri 31 Mar 2017 12:49:34 AM NDT
